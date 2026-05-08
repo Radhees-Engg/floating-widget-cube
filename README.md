@@ -9,7 +9,6 @@ it's transparent, borderless, hides from the taskbar, bobs up and down like it's
 * bobs up and down on a sine wave
 * transparent background so it just floats on your desktop
 * you can drag it anywhere on screen
-### speciality 
 **You can literally paste any image on that cube - yeah anything**
 ---
 ## how to install
