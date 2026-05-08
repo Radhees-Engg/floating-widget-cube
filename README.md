@@ -14,7 +14,7 @@ it's transparent, borderless, hides from the taskbar, bobs up and down like it's
 ---
 ## how to install
 1. Create a folder called exactly C:\DisplayCube
-2. Put all the given files in that exact folder
+2. Put all the given files in that exact folder or place the given single DisplayCube folder in your C: disk
 3. Double Click on the install.bat - it'll ask for admin request click yes
 4. If you don't have g++ or raylib this will install automatically
 5. Once Installed it'll ask for the texture path - give it
