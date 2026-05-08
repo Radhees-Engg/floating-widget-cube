@@ -24,4 +24,6 @@ it also adds itself to startup so every time you boot your PC the cube will be t
 ## requirements
 * Windows 10 or above
 * winget
-* Internet connection only when installing for the first time 
+* Internet connection only when installing for the first time
+--- 
+*I've given some textures you could try with that if you want*
