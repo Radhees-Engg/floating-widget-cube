@@ -26,6 +26,5 @@ it also adds itself to startup so every time you boot your PC the cube will be t
 * winget
 * Internet connection only when installing for the first time
 --- 
-*I've given some textures you could try with that if you want*
+*I've given some textures you could try with that if you want*    
 Built with Raylib (https://www.raylib.com/) — zlib licensed
-
