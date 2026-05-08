@@ -10,5 +10,18 @@ it's transparent, borderless, hides from the taskbar, bobs up and down like it's
 * transparent background so it just floats on your desktop
 * you can drag it anywhere on screen
 ### speciality 
-**you can literally paste any image on that cube - yeah anything**
-
+**You can literally paste any image on that cube - yeah anything**
+---
+## how to install
+1. Create a folder called exactly C:\DisplayCube
+2. Put all the given files in that exact folder
+3. Double Click on the install.bat - it'll ask for admin request click yes
+4. If you don't have g++ or raylib this will install automatically
+5. Once Installed it'll ask for the texture path - give it
+6. now the cube will appear :)
+it also adds itself to startup so every time you boot your PC the cube will be there waiting for you like a loyal little guy.
+---
+## requirements
+* Windows 10 or above
+* winget
+* Internet connection only when installing for the first time 
